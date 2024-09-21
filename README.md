@@ -1,4 +1,4 @@
-# GradioFolderCleaner
+# GradioImageComparer
 
 Simple Gradio application for comparing the images from two different folders in a head to head manner.
 
